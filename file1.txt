@@ -1,0 +1,2 @@
+hi all,this is lab3 
+git pull and git fetch commands
